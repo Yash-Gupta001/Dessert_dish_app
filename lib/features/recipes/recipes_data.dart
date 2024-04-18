@@ -26,7 +26,10 @@ class RecipesData {
       bgImageName: '01-lemon-cheesecake-bg',
       bgColor: AppColors.yellow,
     ),
+<<<<<<< HEAD
+=======
 
+>>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 2,
       title: 'Macaroons',
@@ -63,7 +66,10 @@ class RecipesData {
       bgImageName: '',
       bgColor: AppColors.primary,
     ),
+<<<<<<< HEAD
+=======
 
+>>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 3,
       title: 'Cream Cupcakes',
@@ -79,6 +85,17 @@ class RecipesData {
         '2 drops pink gel food coloring',
       ],
       instructions: [
+<<<<<<< HEAD
+        'Preheat oven and prepare cupcake pan: Preheat your oven to 350°F (175°C). Line a muffin tin with cupcake liners.',
+        '',
+        '',
+        '',
+        '',
+        '',
+        '',
+        '',
+        '',
+=======
         'Combine powdered sugar, almond flour, and salt in a food processor, then sift into a bowl.',
         'Beat egg whites, salt, and granulated sugar until stiff peaks form; add vanilla and food coloring.',
         'Gently fold almond flour mixture into egg whites until ribbons form.',
@@ -89,12 +106,16 @@ class RecipesData {
         'For buttercream, beat butter until fluffy, sift in powdered sugar, add vanilla, and cream.',
         'Transfer buttercream to piping bag.',
         'Sandwich macaron shells with buttercream, then store in airtight container for 24 hours.',
+>>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
       ],
       image: 'assets/images/desserts/08-cream-cupcakes.png',
       bgImageName: '',
       bgColor: AppColors.pinkLight,
     ),
+<<<<<<< HEAD
+=======
 
+>>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 4,
       title: 'Chocolate Cheesecake',
@@ -119,7 +140,10 @@ class RecipesData {
       bgImageName: '',
       bgColor: AppColors.orangeDark,
     ),
+<<<<<<< HEAD
+=======
 
+>>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 5,
       title: 'Fruit Plate',
@@ -127,6 +151,11 @@ class RecipesData {
           "Melons - they're firmer so make a great base for the softer berries and fruits. Tropical fruit - the top of a pineapple can be included for height, while dragonfruit looks vibrant.",
       ingredients: [
         '',
+<<<<<<< HEAD
+      ],
+      instructions: [
+        '',
+=======
         '',
         '',
         '',
@@ -141,12 +170,16 @@ class RecipesData {
         '',
         '',
         '',
+>>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
       ],
       image: 'assets/images/desserts/09-fruit-plate.png',
       bgImageName: '',
       bgColor: AppColors.green,
     ),
+<<<<<<< HEAD
+=======
 
+>>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 6,
       title: 'Chocolate Donuts',
@@ -178,7 +211,10 @@ class RecipesData {
       bgImageName: '',
       bgColor: AppColors.sugar,
     ),
+<<<<<<< HEAD
+=======
 
+>>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 7,
       title: 'Strawberry Cake',
@@ -186,6 +222,11 @@ class RecipesData {
           'Jam-packed with fresh strawberries, this strawberry cake is one of the simplest, most delicious cakes you’ll ever make.',
       ingredients: [
         '',
+<<<<<<< HEAD
+      ],
+      instructions: [
+        '',
+=======
         '',
         '',
         '',
@@ -202,12 +243,16 @@ class RecipesData {
         '',
         '',
         '',
+>>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
       ],
       image: 'assets/images/desserts/13-strawberry-powdered-cake.png',
       bgImageName: '',
       bgColor: AppColors.red,
     ),
+<<<<<<< HEAD
+=======
 
+>>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 8,
       title: 'Fluffy Cake',
@@ -239,7 +284,10 @@ class RecipesData {
       bgImageName: '',
       bgColor: AppColors.orangeDark,
     ),
+<<<<<<< HEAD
+=======
 
+>>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 9,
       title: 'White Cream Cake',
@@ -275,7 +323,10 @@ class RecipesData {
       bgImageName: '',
       bgColor: AppColors.sugar,
     ),
+<<<<<<< HEAD
+=======
 
+>>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 10,
       title: 'Fruit Pie',
@@ -283,6 +334,11 @@ class RecipesData {
           'Bake a hearty fruit pie for dessert. Our collection of year-round pastry classics includes apple & blackberry, summer berries, lemon meringue and mince pies.',
       ingredients: [
         '',
+<<<<<<< HEAD
+      ],
+      instructions: [
+        '',
+=======
         '',
         '',
         '',
@@ -299,12 +355,16 @@ class RecipesData {
         '',
         '',
         '',
+>>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
       ],
       image: 'assets/images/desserts/14-fruit-pie.png',
       bgImageName: '',
       bgColor: AppColors.yellow,
     ),
+<<<<<<< HEAD
+=======
 
+>>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 11,
       title: 'Honey Cake',
@@ -341,7 +401,10 @@ class RecipesData {
       bgImageName: '',
       bgColor: AppColors.honey,
     ),
+<<<<<<< HEAD
+=======
 
+>>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 12,
       title: 'Powdered Cake',
@@ -357,7 +420,10 @@ class RecipesData {
       bgImageName: '',
       bgColor: AppColors.sugar,
     ),
+<<<<<<< HEAD
+=======
 
+>>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 13,
       title: 'Strawberries',
@@ -365,6 +431,11 @@ class RecipesData {
           "We'll admit it: we go a little crazy during strawberry season. Though easy to grow, these sweet berries just taste better when you get them in season, as opposed to buying them at other times of the year.",
       ingredients: [
         '',
+<<<<<<< HEAD
+      ],
+      instructions: [
+        '',
+=======
         '',
         '',
         '',
@@ -384,12 +455,16 @@ class RecipesData {
         '',
         '',
         '',
+>>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
       ],
       image: 'assets/images/desserts/10-strawberries.png',
       bgImageName: '',
       bgColor: AppColors.red,
     ),
+<<<<<<< HEAD
+=======
 
+>>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 14,
       title: 'Chocolate Cake',
@@ -397,6 +472,15 @@ class RecipesData {
           'The Best Chocolate Cake Recipe – A one bowl chocolate cake recipe that is quick, easy, and delicious! Updated with gluten-free, dairy-free, and egg-free options!',
       ingredients: [
         '',
+<<<<<<< HEAD
+      ],
+      instructions: [
+        '',
+      ],
+      image: 'assets/images/desserts/12-chocolate-cake-2.png',
+      bgImageName: '',
+      bgColor: AppColors.sugar                            ,
+=======
         '',
         '',
         '',
@@ -420,6 +504,7 @@ class RecipesData {
       image: 'assets/images/desserts/12-chocolate-cake-2.png',
       bgImageName: '',
       bgColor: AppColors.orangeDark,
+>>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     ),
   ];
 }
