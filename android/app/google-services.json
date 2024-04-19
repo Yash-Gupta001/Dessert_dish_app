@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870914346358",
+    "project_id": "dessert-app-bb219",
+    "storage_bucket": "dessert-app-bb219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870914346358:android:a9a035e3b933f745a97e57",
+        "android_client_info": {
+          "package_name": "com.roaakdm.flutter.vikings.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQFZ4HtBeBfjUGetMKlf5_vqdCdhY1wog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
