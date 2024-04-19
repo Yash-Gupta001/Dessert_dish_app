@@ -8,7 +8,7 @@ This repository contains the source code for a dessert dish app, where users can
 
 2. **Video Tutorials:** Integrated video player allows users to watch tutorials for each recipe, providing step-by-step guidance.
 
-3. **Interactive Experience:** The app provides an interactive viewing experience, allowing users to pinch-to-zoom on recipe images and double-tap to skip forward or backward in video tutorials.
+3. **Interactive Experience:** The app provides an interactive viewing experience, double-tap to skip forward or backward in video tutorials.
 
 ### Demo:
 
