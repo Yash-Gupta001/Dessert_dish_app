@@ -26,10 +26,6 @@ class RecipesData {
       bgImageName: '01-lemon-cheesecake-bg',
       bgColor: AppColors.yellow,
     ),
-<<<<<<< HEAD
-=======
-
->>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 2,
       title: 'Macaroons',
@@ -66,10 +62,6 @@ class RecipesData {
       bgImageName: '',
       bgColor: AppColors.primary,
     ),
-<<<<<<< HEAD
-=======
-
->>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 3,
       title: 'Cream Cupcakes',
@@ -85,37 +77,20 @@ class RecipesData {
         '2 drops pink gel food coloring',
       ],
       instructions: [
-<<<<<<< HEAD
         'Preheat oven and prepare cupcake pan: Preheat your oven to 350°F (175°C). Line a muffin tin with cupcake liners.',
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-=======
-        'Combine powdered sugar, almond flour, and salt in a food processor, then sift into a bowl.',
-        'Beat egg whites, salt, and granulated sugar until stiff peaks form; add vanilla and food coloring.',
-        'Gently fold almond flour mixture into egg whites until ribbons form.',
-        'Transfer batter to piping bag and pipe onto parchment-lined baking sheet.',
-        'Tap baking sheet to release air bubbles, then let macarons sit for 30 minutes.',
-        'Preheat oven to 300˚F (150˚C) and bake macarons for 17 minutes.',
-        'Cool macarons on wire rack before filling.',
-        'For buttercream, beat butter until fluffy, sift in powdered sugar, add vanilla, and cream.',
-        'Transfer buttercream to piping bag.',
-        'Sandwich macaron shells with buttercream, then store in airtight container for 24 hours.',
->>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
+        'Prepare the dry ingredients: In a medium bowl, whisk together the powdered sugar, almond flour, and ½ teaspoon of salt until well combined. Set aside.',
+        'Whip the egg whites: In a large bowl, using a hand mixer or stand mixer fitted with a whisk attachment, beat the egg whites on medium speed until frothy. Gradually add the granulated sugar, about 1 tablespoon at a time, and continue beating until stiff peaks form. Add the vanilla extract and continue beating until well incorporated.',
+        'Combine the dry and wet ingredients: Gently fold the dry ingredients into the whipped egg whites until just combined. Be careful not to overmix.',
+        'Color the batter: Divide the batter in half. Leave one half plain and add pink gel food coloring to the other half. Fold the food coloring into the batter until evenly distributed.',
+        'Fill the cupcake liners: Using a spoon or cookie scoop, fill each cupcake liner with a spoonful of plain batter, followed by a spoonful of pink batter. Continue alternating between the two batters until the liners are about ⅔ full.',
+        'Bake the cupcakes: Transfer the muffin tin to the preheated oven and bake for 18-20 minutes, or until the cupcakes are lightly golden and a toothpick inserted into the center comes out clean.',
+        'Cool and serve: Remove the cupcakes from the oven and let them cool in the pan for 5 minutes. Then transfer them to a wire rack to cool completely before serving.',
+        'Enjoy your delicious cream cupcakes!'
       ],
       image: 'assets/images/desserts/08-cream-cupcakes.png',
       bgImageName: '',
       bgColor: AppColors.pinkLight,
     ),
-<<<<<<< HEAD
-=======
-
->>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 4,
       title: 'Chocolate Cheesecake',
@@ -140,46 +115,26 @@ class RecipesData {
       bgImageName: '',
       bgColor: AppColors.orangeDark,
     ),
-<<<<<<< HEAD
-=======
-
->>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 5,
       title: 'Fruit Plate',
       description:
           "Melons - they're firmer so make a great base for the softer berries and fruits. Tropical fruit - the top of a pineapple can be included for height, while dragonfruit looks vibrant.",
       ingredients: [
-        '',
-<<<<<<< HEAD
+        'Melons',
+        'Tropical fruits (e.g., pineapple, mango, kiwi)',
+        'Berries (e.g., strawberries, blueberries, raspberries)',
+        'Other assorted fruits (e.g., grapes, apple slices)',
       ],
       instructions: [
-        '',
-=======
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-      ],
-      instructions: [
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
->>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
+        'Wash and prepare the fruits: Wash all fruits thoroughly under cold water. Peel, slice, and prepare the melons, tropical fruits, berries, and other assorted fruits as desired.',
+        'Arrange the fruit plate: Start by placing the melon slices or cubes on a large serving platter. Next, arrange the tropical fruits such as pineapple, mango, and kiwi. Add vibrant dragonfruit slices for color and visual appeal. Fill in the gaps with assorted berries and other fruits to create a balanced and visually appealing fruit plate.',
+        'Serve and enjoy: Once the fruit plate is arranged, it is ready to serve. Serve it as a refreshing and healthy snack, appetizer, or dessert for any occasion.',
       ],
       image: 'assets/images/desserts/09-fruit-plate.png',
       bgImageName: '',
       bgColor: AppColors.green,
     ),
-<<<<<<< HEAD
-=======
-
->>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 6,
       title: 'Chocolate Donuts',
@@ -211,48 +166,34 @@ class RecipesData {
       bgImageName: '',
       bgColor: AppColors.sugar,
     ),
-<<<<<<< HEAD
-=======
-
->>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 7,
       title: 'Strawberry Cake',
       description:
           'Jam-packed with fresh strawberries, this strawberry cake is one of the simplest, most delicious cakes you’ll ever make.',
       ingredients: [
-        '',
-<<<<<<< HEAD
+        '2 cups all-purpose flour',
+        '1 cup granulated sugar',
+        '2 teaspoons baking powder',
+        '1/2 teaspoon salt',
+        '1/2 cup unsalted butter, softened',
+        '1 cup milk',
+        '2 large eggs',
+        '1 teaspoon vanilla extract',
+        '2 cups fresh strawberries, diced',
       ],
       instructions: [
-        '',
-=======
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-      ],
-      instructions: [
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
->>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
+        'Preheat the oven: Preheat your oven to 350°F (175°C). Grease and flour a 9-inch round cake pan.',
+        'Mix dry ingredients: In a large mixing bowl, whisk together the flour, sugar, baking powder, and salt until well combined.',
+        'Add wet ingredients: Add the softened butter, milk, eggs, and vanilla extract to the dry ingredients. Mix until smooth and well combined.',
+        'Fold in strawberries: Gently fold in the diced strawberries until evenly distributed throughout the batter.',
+        'Bake the cake: Pour the batter into the prepared cake pan and spread it out evenly. Bake in the preheated oven for 30-35 minutes, or until a toothpick inserted into the center comes out clean.',
+        'Cool and serve: Remove the cake from the oven and allow it to cool in the pan for 10 minutes. Then, transfer the cake to a wire rack to cool completely. Slice and serve the strawberry cake with your favorite frosting or whipped cream, if desired. Enjoy!',
       ],
       image: 'assets/images/desserts/13-strawberry-powdered-cake.png',
       bgImageName: '',
       bgColor: AppColors.red,
     ),
-<<<<<<< HEAD
-=======
-
->>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 8,
       title: 'Fluffy Cake',
@@ -284,10 +225,6 @@ class RecipesData {
       bgImageName: '',
       bgColor: AppColors.orangeDark,
     ),
-<<<<<<< HEAD
-=======
-
->>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 9,
       title: 'White Cream Cake',
@@ -323,48 +260,39 @@ class RecipesData {
       bgImageName: '',
       bgColor: AppColors.sugar,
     ),
-<<<<<<< HEAD
-=======
-
->>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 10,
       title: 'Fruit Pie',
       description:
-          'Bake a hearty fruit pie for dessert. Our collection of year-round pastry classics includes apple & blackberry, summer berries, lemon meringue and mince pies.',
+          'Bake a hearty fruit pie for dessert. Our collection of year-round pastry classics includes apple & blackberry, summer berries, lemon meringue, and mince pies.',
       ingredients: [
-        '',
-<<<<<<< HEAD
+        '2 1/2 cups all-purpose flour',
+        '1 cup unsalted butter, cold and cubed',
+        '1 teaspoon salt',
+        '6-8 tablespoons ice water',
+        '4 cups mixed fruit (e.g., apples, berries, peaches), peeled and sliced',
+        '1/2 cup granulated sugar',
+        '1/4 cup all-purpose flour',
+        '1 tablespoon lemon juice',
+        '1/2 teaspoon ground cinnamon',
+        '1/4 teaspoon ground nutmeg',
+        '1 egg, beaten (for egg wash)',
+        '1 tablespoon coarse sugar (for sprinkling)',
       ],
       instructions: [
-        '',
-=======
-        '',
-        '',
-        '',
-        '',
-        '',
-      ],
-      instructions: [
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
->>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
+        'Make the pie crust: In a large mixing bowl, combine the flour and salt. Add the cold, cubed butter and use a pastry cutter or fork to cut the butter into the flour until the mixture resembles coarse crumbs. Gradually add the ice water, 1 tablespoon at a time, mixing until the dough comes together. Divide the dough in half, shape each half into a disc, wrap in plastic wrap, and refrigerate for at least 1 hour.',
+        'Preheat the oven: Preheat your oven to 375°F (190°C).',
+        'Prepare the filling: In a separate bowl, toss together the mixed fruit, granulated sugar, flour, lemon juice, cinnamon, and nutmeg until well combined.',
+        'Roll out the crust: On a lightly floured surface, roll out one disc of dough into a circle large enough to line a 9-inch pie dish. Transfer the rolled-out dough to the pie dish, gently pressing it into the bottom and sides.',
+        'Fill the pie: Pour the prepared fruit filling into the pie crust, spreading it out evenly.',
+        'Top the pie: Roll out the second disc of dough into a circle large enough to cover the top of the pie. Place it over the filling, trim any excess dough, and crimp the edges to seal. Cut a few slits in the top crust to allow steam to escape during baking.',
+        'Bake the pie: Brush the top crust with beaten egg and sprinkle with coarse sugar for extra shine and sweetness. Place the pie on a baking sheet (to catch any drips) and bake in the preheated oven for 45-50 minutes, or until the crust is golden brown and the filling is bubbling.',
+        'Cool and serve: Remove the pie from the oven and let it cool on a wire rack for at least 1 hour before serving. Serve warm or at room temperature, optionally with a scoop of vanilla ice cream or a dollop of whipped cream. Enjoy!',
       ],
       image: 'assets/images/desserts/14-fruit-pie.png',
       bgImageName: '',
       bgColor: AppColors.yellow,
     ),
-<<<<<<< HEAD
-=======
-
->>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 11,
       title: 'Honey Cake',
@@ -401,110 +329,92 @@ class RecipesData {
       bgImageName: '',
       bgColor: AppColors.honey,
     ),
-<<<<<<< HEAD
-=======
-
->>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 12,
       title: 'Powdered Cake',
       description:
           'Heavy on the butter and nutmeg, this cake has all the flavors of your favorite cake donut in a convenient square shape.',
       ingredients: [
-        '',
+        '2 cups all-purpose flour',
+        '1 1/2 teaspoons baking powder',
+        '1/2 teaspoon baking soda',
+        '1/2 teaspoon salt',
+        '1/2 cup unsalted butter, softened',
+        '1 cup granulated sugar',
+        '2 large eggs',
+        '1 teaspoon vanilla extract',
+        '1/2 teaspoon ground nutmeg',
+        '1/2 cup buttermilk',
+        'For the powdered sugar coating:',
+        '1/2 cup powdered sugar',
+        '1/2 teaspoon ground cinnamon (optional)',
       ],
       instructions: [
-        '',
+        'Preheat the oven: Preheat your oven to 350°F (175°C). Grease and flour a 9x9-inch baking pan or line it with parchment paper for easy removal.',
+        'Mix dry ingredients: In a medium bowl, whisk together the flour, baking powder, baking soda, salt, and ground nutmeg. Set aside.',
+        'Cream butter and sugar: In a large mixing bowl, cream together the softened butter and granulated sugar until light and fluffy.',
+        'Add eggs and vanilla: Beat in the eggs, one at a time, until well combined. Stir in the vanilla extract.',
+        'Alternate adding dry ingredients and buttermilk: Gradually add the dry ingredients to the wet ingredients, alternating with the buttermilk, beginning and ending with the dry ingredients. Mix until just combined, being careful not to overmix.',
+        'Bake the cake: Pour the batter into the prepared baking pan and spread it out evenly. Bake in the preheated oven for 25-30 minutes, or until a toothpick inserted into the center comes out clean.',
+        'Cool and coat with powdered sugar: Allow the cake to cool in the pan for 10 minutes, then transfer it to a wire rack to cool completely. In a small bowl, combine the powdered sugar and ground cinnamon (if using). Sift the mixture evenly over the cooled cake.',
+        'Serve: Slice the powdered cake into squares and serve. Enjoy!',
       ],
       image: 'assets/images/desserts/11-powdered-cake.png',
       bgImageName: '',
       bgColor: AppColors.sugar,
     ),
-<<<<<<< HEAD
-=======
-
->>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 13,
-      title: 'Strawberries',
+      title: 'Strawberries Splash',
       description:
           "We'll admit it: we go a little crazy during strawberry season. Though easy to grow, these sweet berries just taste better when you get them in season, as opposed to buying them at other times of the year.",
       ingredients: [
-        '',
-<<<<<<< HEAD
+        '1 pound fresh strawberries, washed and hulled',
+        '2 tablespoons granulated sugar (adjust to taste)',
+        '1 tablespoon lemon juice',
+        'Fresh mint leaves for garnish (optional)',
       ],
       instructions: [
-        '',
-=======
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-      ],
-      instructions: [
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
->>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
+        'Prepare the strawberries: Wash the strawberries under cold water and remove the stems (hulls). Slice the strawberries into halves or quarters, depending on your preference.',
+        'Macerate the strawberries: Place the sliced strawberries in a mixing bowl. Sprinkle granulated sugar over the strawberries, then add the lemon juice. Gently toss the strawberries until they are evenly coated in sugar and lemon juice. Let the strawberries sit at room temperature for about 15-30 minutes to allow the flavors to meld and the strawberries to release their juices.',
+        'Serve: After macerating, the strawberries are ready to be served. Spoon them into serving bowls or glasses, along with any accumulated juices. Garnish with fresh mint leaves if desired. Enjoy the refreshing strawberries splash!',
       ],
       image: 'assets/images/desserts/10-strawberries.png',
       bgImageName: '',
       bgColor: AppColors.red,
     ),
-<<<<<<< HEAD
-=======
-
->>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
     Recipe(
       id: 14,
       title: 'Chocolate Cake',
       description:
           'The Best Chocolate Cake Recipe – A one bowl chocolate cake recipe that is quick, easy, and delicious! Updated with gluten-free, dairy-free, and egg-free options!',
       ingredients: [
-        '',
-<<<<<<< HEAD
+        '2 cups all-purpose flour',
+        '2 cups granulated sugar',
+        '3/4 cup unsweetened cocoa powder',
+        '2 teaspoons baking powder',
+        '1 1/2 teaspoons baking soda',
+        '1 teaspoon salt',
+        '1 cup milk (or dairy-free alternative)',
+        '1/2 cup vegetable oil',
+        '2 large eggs (or egg replacer for vegan option)',
+        '2 teaspoons vanilla extract',
+        '1 cup boiling water',
+        'Chocolate frosting or ganache (optional)',
+        'Fresh berries or whipped cream for garnish (optional)',
       ],
       instructions: [
-        '',
+        'Preheat oven and prepare cake pans: Preheat your oven to 350°F (175°C). Grease and flour two 9-inch round cake pans or line them with parchment paper.',
+        'Mix dry ingredients: In a large mixing bowl, combine the flour, sugar, cocoa powder, baking powder, baking soda, and salt.',
+        'Add wet ingredients: Add the milk, vegetable oil, eggs, and vanilla extract to the dry ingredients. Mix until well combined.',
+        'Add boiling water: Gradually add the boiling water to the batter, mixing well after each addition. The batter will be thin, but that is normal.',
+        'Bake the cakes: Divide the batter evenly between the prepared cake pans. Bake in the preheated oven for 30 to 35 minutes, or until a toothpick inserted into the center comes out clean.',
+        'Cool and frost: Allow the cakes to cool in the pans for 10 minutes, then remove them from the pans and transfer them to a wire rack to cool completely. Once cooled, frost the cakes with your favorite chocolate frosting or ganache.',
+        'Garnish and serve: Decorate the cake with fresh berries or whipped cream if desired. Slice and serve your delicious chocolate cake!',
       ],
       image: 'assets/images/desserts/12-chocolate-cake-2.png',
       bgImageName: '',
-      bgColor: AppColors.sugar                            ,
-=======
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-      ],
-      instructions: [
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-        '',
-      ],
-      image: 'assets/images/desserts/12-chocolate-cake-2.png',
-      bgImageName: '',
-      bgColor: AppColors.orangeDark,
->>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3
+      bgColor: AppColors.blackLight,
     ),
   ];
 }

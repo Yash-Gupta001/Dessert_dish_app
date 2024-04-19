@@ -29,9 +29,8 @@ class IngredientsSection extends StatelessWidget {
         );
       },
     );
-  }
-<<<<<<< HEAD
+  
+
 }
-=======
+
 }
->>>>>>> dec7ee7448b6cc1504e9315e173de6643dac71f3

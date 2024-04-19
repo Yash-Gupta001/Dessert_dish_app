@@ -1,3 +1,5 @@
+// ignore_for_file: deprecated_member_use
+
 import 'package:flutter/material.dart';
 import 'package:recipes_ui/core/enums/screen_size.dart';
 import 'package:recipes_ui/core/styles/app_colors.dart';

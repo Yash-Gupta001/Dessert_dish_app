@@ -22,6 +22,7 @@ class _RecipesPageState extends State<RecipesPage> {
   int _selectedIndex = 0;
   final PageController _pageController = PageController();
 
+  // ignore: unused_field
   double _scrollPosition = 0.0;
 
   void _onItemTapped(int index) {
@@ -106,14 +107,14 @@ class _RecipesPageState extends State<RecipesPage> {
               icon: Padding(
                 padding: const EdgeInsets.symmetric(vertical: 8),
                 child: Icon(
-                  Icons.home,
+                  Icons.menu_book_outlined,
                   color: _selectedIndex == 0 ? Colors.lightGreen : Colors.grey,
                 ),
               ),
               title: Padding(
                 padding: const EdgeInsets.symmetric(vertical: 4),
                 child: Text(
-                  'Receipies',
+                  'Recipes',
                   style: TextStyle(
                     color: _selectedIndex == 0 ? Colors.lightGreen : Colors.grey,
                   ),
@@ -127,7 +128,7 @@ class _RecipesPageState extends State<RecipesPage> {
                 padding: const EdgeInsets.symmetric(vertical: 8),
                 child: Icon(
                   Icons.video_library,
-                  color: _selectedIndex == 1 ? Colors.lightGreen : Colors.grey,
+                  color: _selectedIndex == 1 ? Colors.purple[300] : Colors.grey,
                 ),
               ),
               title: Padding(
@@ -135,11 +136,11 @@ class _RecipesPageState extends State<RecipesPage> {
                 child: Text(
                   'Videos',
                   style: TextStyle(
-                    color: _selectedIndex == 1 ? Colors.lightGreen : Colors.grey,
+                    color: _selectedIndex == 1 ? Colors.purple[300] : Colors.grey,
                   ),
                 ),
               ),
-              activeColor: Colors.lightGreen,
+              activeColor: Colors.purple,
               textAlign: TextAlign.center,
             ),
           ],
