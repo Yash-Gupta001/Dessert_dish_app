@@ -26,7 +26,7 @@ Check out the live demo of the app [here](https://dessert-app-bb219.web.app/).
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/Dessert_dish_app.git
+   git clone https://github.com/Yash-Gupta001/Dessert_dish_app.git
    ```
 
 2. Navigate to the project directory:
