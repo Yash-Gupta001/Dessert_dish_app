@@ -94,7 +94,7 @@ class _RecipesPageState extends State<RecipesPage> {
               ),
             ),
             // Screen 2: VideoPlayerScreen
-              VideoPlayerScreen(),
+              const VideoPlayerScreen(),
           ],
         ),
       ),

@@ -1,3 +1,5 @@
+// ignore_for_file: prefer_final_fields
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:youtube_player_flutter/youtube_player_flutter.dart';
@@ -81,7 +83,7 @@ class _VideoPlayerScreenState extends State<VideoPlayerScreen> {
         itemBuilder: (context, index, animation) {
           return SlideTransition(
             position: Tween<Offset>(
-              begin: Offset(0, 1),
+              begin: const Offset(0, 1),
               end: Offset.zero,
             ).animate(animation),
             child: buildItem(context, index),
@@ -157,12 +159,12 @@ class _VideoPlayerState extends State<VideoPlayer> {
         showDialog(
           context: context,
           builder: (ctx) => AlertDialog(
-            title: Text('Error'),
-            content: Text('Invalid video URL'),
+            title: const Text('Error'),
+            content: const Text('Invalid video URL'),
             actions: <Widget>[
               TextButton(
                 onPressed: () => Navigator.of(ctx).pop(),
-                child: Text('OK'),
+                child: const Text('OK'),
               ),
             ],
           ),
@@ -205,7 +207,7 @@ class _VideoPlayerState extends State<VideoPlayer> {
               backgroundColor: Colors.red[700], 
             ),
       body: InteractiveViewer( // Wrap with InteractiveViewer for pinch-to-zoom functionality
-        boundaryMargin: EdgeInsets.all(100),
+        boundaryMargin: const EdgeInsets.all(100),
         minScale: 0.1,
         maxScale: 1.6,
         child: GestureDetector(
